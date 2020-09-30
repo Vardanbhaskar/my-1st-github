@@ -1,2 +1,7 @@
 # my-1st-github
-created on 30 September 2020 for participating in hacktober fest
+created on 30 September 2020 for participating in hacktober fest.
+hello!!
+VARDAN BHASKAR HERE.I AM 13 YEARS OLD AND I AM VERY MUCH INTERESTED IN PROGRAMMING AND CREATING GAME.THOUGH I AM A NEWBIE BUT I ASSURE YOU THAT MY CURRENT PROJECTS WOULD BE GREAT AND ITS QUALITY WOULD INCREASE EVERY TIME:)
+
+HAVE A NICE DAY...
+FOR MORE INFORMaTION CONTACT:- vardan.bhaskar@gmail.com
